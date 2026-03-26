@@ -4,11 +4,11 @@
 
 Organize em pastas para cada AC e adicione o professor como colaborador no repositório.
 
-AC 01 - 11/03/2026
+AC 01 - 26/03/2026
 
-AC 02 - 25/03/2026
+AC 02 - 09/04/2026
 
-AC 03 - 22/04/2026
+AC 03 - 30/04/2026
 
-AC 04 - 06/02/2026
+AC 04 - 14/05/2026
 
