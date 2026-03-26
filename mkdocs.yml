@@ -13,6 +13,7 @@ nav:
         - AWS: Disciplina/roteiros/02 - aws.md
         - Linux Bash: Disciplina/roteiros/04 - linux.md
         - EC2: Disciplina/roteiros/04 - ec2.md
+        - Nginx: Disciplina/roteiros/05 - nginxsite.md
 
   - Avaliações:
       - AP1: Avalia/ap1.md
