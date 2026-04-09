@@ -4,8 +4,14 @@
 | ----------------------------------------------------------------| |
 Aula 01 - 26/02/2026 | :material-check: [Introdução](../Disciplina/docs/aula01/Fundamentos-de-Cloud-Computing-Introducao-a-Computacao-em-Nuvem.pptx) a Cloud Computing <br> :material-check: [Modelos ](../Disciplina/docs/aula01/Modelos-de-Servico-em-Nuvem-IaaS-PaaS-e-SaaS-Descomplicados.pptx) de Cloud Computing|
 Aula 02 - 05/03/2026 | :material-check: Introdução ao [Big Data](..//Disciplina/docs/aula02/Introducao-ao-Big-Data-Os-5-Vs-e-Desafios-do-Processamento-em-Larga-Escala.pptx)|
-Aula 03 - 11/03/2026 | :material-check: [Principais Serviços Aws](../Disciplina/docs/aula02/Principais-Servicos-AWS-Computacao-Armazenamento-e-Redes.pptx)|
-Aula 04 - 18/03/2025 | :material-check: [Computação](https://awseducate.instructure.com/courses/941) |
+Aula 03 - 12/03/2026 | :material-check: [Principais Serviços Aws](../Disciplina/docs/aula02/Principais-Servicos-AWS-Computacao-Armazenamento-e-Redes.pptx)|
+Aula 04 - 19/03/2025 | :material-check: [Computação](https://awseducate.instructure.com/courses/941) |
+Aula 05 - 26/03/2026 | :material-check: Roteiro Nginx |
+Aula 06 - 02/04/2026 | :material-check: Feridado  |
+Aula 07 - 08/04/2026 | :material-check: [Introdução ao Elastic Beanstalk](https://aws.amazon.com/pt/elasticbeanstalk/?trk=d04539bf-5991-4c63-855b-38fdf1088189&sc_channel=ps&ef_id=CjwKCAjw-dfOBhAjEiwAq0RwI1XSEG0z2u9ry089mTTUbIOHFD6l7WagRPOwtsEuSCHaukBAEe3scxoCcoUQAvD_BwE:G:s&s_kwcid=AL!4422!3!798517445697!p!!g!!elastic%20beanstalk!23600692275!190643552861&gad_campaignid=23600692275&gbraid=0AAAAADjHtp9BFn7Xzl0jEbWdUOPc34Af5&gclid=CjwKCAjw-dfOBhAjEiwAq0RwI1XSEG0z2u9ry089mTTUbIOHFD6l7WagRPOwtsEuSCHaukBAEe3scxoCcoUQAvD_BwE) |
+Aula 08 - 16/04/2026 | :material-check: AP1 |
+Aula 09 - 23/04/2026 | :material-check: [Introdução ao Armazenamento na Nuvem](https://awseducate.instructure.com/courses/920) |
+Aula 10 - 30/04/2026 | :material-check: |
 <!--
 Aula 02 - 13/08/2025 | :material-check: [Computação Visual](../Disciplina/docs/aula02/intro_computacao_visual.pdf) e [Bibliotecas Gráficas](../Disciplina/docs/aula02/bibliotecas_graficas.pdf) <br> <iframe src="../.././cg.html" width="100%" height="170px"></iframe>|
 Aula 03 - 20/08/2025 | :material-check: [Imagens](../Disciplina/docs/aula03/imagens.pdf) <br> :material-check: [Dispositivos e Espaço de Cores](../Disciplina/docs/aula03/imagens_cg.pdf) <br> :material-check: [Visão Humana](../Disciplina/docs/aula03/imagens_m.pdf)  |

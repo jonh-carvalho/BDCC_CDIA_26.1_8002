@@ -1,7 +1,7 @@
 ---
 repo_url: https://github.com/jonh-carvalho/BDCC_26.1_8002
 site_author: Jonh Carvalho
-site_name: BDCC_26.1_8002
+site_name: BDCC_CDIA_26.1_8001
 copyright: Copyright ©️ 2026, Jonh Carvalho
 
 nav: 
@@ -10,10 +10,12 @@ nav:
       - Aulas: Disciplina/aulas.md
       - Ambiente: Disciplina/ambiente.md
       - Roteiro:
-        - AWS: Disciplina/roteiros/02 - aws.md
-        - Linux Bash: Disciplina/roteiros/04 - linux.md
-        - EC2: Disciplina/roteiros/04 - ec2.md
-        - Nginx: Disciplina/roteiros/05 - nginxsite.md
+        - 01- AWS: Disciplina/roteiros/02 - aws.md
+        - 04 - EC2: Disciplina/roteiros/04 - ec2.md
+        - 04 - Linux Bash: Disciplina/roteiros/04 - linux.md
+        - 05 - Nginx: Disciplina/roteiros/05 - nginxsite.md
+        - 06 - S3: Disciplina/roteiros/06 - s3.md
+        - 07 - BE: Disciplina/roteiros/07 - eb.md
 
   - Avaliações:
       - AP1: Avalia/ap1.md
