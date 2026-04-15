@@ -4,9 +4,9 @@
 
 Adicionar uma nova classe ao aplicativo Django Rest existente, que já possui uma classe `Produto`, e realizar o deploy do projeto na AWS utilizando o Elastic Beanstalk com o arquivo `app.zip` segundo roteiro de aula.
 
-]### Entrega
+### Entrega
 
-- Não é necessário a presença do Grupo no Lab 308 se até o início da aula o projeto já tiver sido atualizado e o deploy realizado. 
+- **Não é necessário a presença do Grupo no Lab 308** se até o início da aula o projeto já tiver sido atualizado e o deploy realizado. 
 - Repositório Github - Código-fonte do projeto atualizado, incluindo a nova classe e as APIs relacionadas.
 - Readme atualizado - Nome de todos integrantes do Grupo. 
 - Instruções claras sobre como configurar e executar o projeto localmente, bem como detalhes sobre as alterações realizadas.
@@ -16,7 +16,7 @@ Adicionar uma nova classe ao aplicativo Django Rest existente, que já possui um
 
 ### Cenário
 
-Você possui um projeto Django Rest com uma classe `Produto`. Seu objetivo é criar uma nova classe (por exemplo, `Categoria`), relacioná-la adequadamente com `Produto` e garantir que as APIs estejam funcionando corretamente. Após as alterações, faça o deploy do projeto na AWS Elastic Beanstalk utilizando um arquivo `app.zip`. Você alterar os arquivos de configuração necessários para garantir que o deploy seja bem-sucedido, seguindo o roteiro de aula fornecido acrescentando as instruções específicas para a configuração do ambiente para a criação do usuário admin(root), para que seja possivel logar no django-admin com administrador.
+Você possui um projeto Django Rest com uma classe `Produto`. Seu objetivo é criar uma nova classe (por exemplo, `Categoria`), relacioná-la adequadamente com `Produto` e garantir que as APIs estejam funcionando corretamente. Após as alterações, faça o deploy do projeto na AWS Elastic Beanstalk utilizando um arquivo `app.zip`. Você deverá alterar os arquivos de configuração necessários para garantir que o deploy seja bem-sucedido, seguindo o roteiro de aula fornecido acrescentando as instruções específicas para a configuração do ambiente para a criação do usuário admin(root), para que seja possivel logar no django-admin com administrador.
 
 ### Referências
 
