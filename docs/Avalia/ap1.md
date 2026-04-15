@@ -6,7 +6,7 @@ Adicionar uma nova classe ao aplicativo Django Rest existente, que já possui um
 
 ### Entrega
 
-- **Não é necessário a presença do Grupo no Lab 308** se até o início da aula o projeto já estiver  atualizado e o deploy realizado. O envie deve ser feito adicionando o professor ao repositório e no readme do projeto deve conter o link da API publicada. 
+- **Não é necessário a presença do Grupo no Lab 308** se até o início da aula o projeto já estiver  atualizado e o deploy realizado. O envio deve ser feito adicionando o professor ao repositório e no readme do projeto deve conter o link da API publicada. 
 - Repositório Github - Código-fonte do projeto atualizado, incluindo a nova classe e as APIs relacionadas.
 - Readme atualizado - Nome de todos integrantes do Grupo. 
 - Instruções claras sobre como configurar e executar o projeto localmente, bem como detalhes sobre as alterações realizadas.
