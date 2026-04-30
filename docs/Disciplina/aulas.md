@@ -13,9 +13,9 @@ Aula 08 - 16/04/2026 | :material-check: AP1 |
 Aula 09 - 23/04/2026 | :material-check: Feriado  |
 Aula 10 - 30/04/2026 | :material-check: Colunar e Orientado a Documentos(Repositórios) <br>:material-check: [RDS](https://awseducate.instructure.com/courses/1119/modules/items/19068) -  MySql |
 Aula 11 - 07/05/2026 | :material-check: Rest RDS|
-Aula 12 - 14/06/2026 | :material-check: S3 e Rest S3 |
-Aula 13 - 21/06/2026 | :material-check: |
-Aula 14 - 28/06/2026 | :material-check: |
+Aula 12 - 14/05/2026 | :material-check: S3 e Rest S3 |
+Aula 13 - 21/05/2026 | :material-check: |
+Aula 14 - 28/05/2026 | :material-check: |
 Aula 15 - 04/06/2026 | :material-check: |
 Aula 16 - 11/06/2026 | :material-check: AP2 |
 Aula 17 - 18/06/2026 | :material-check: |
